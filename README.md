@@ -2,11 +2,6 @@
 
 Soy Desarrollador Web Full Stack, apasionado por crear experiencias web intuitivas y dinámicas. Actualmente, estoy inmerso en mi formación en [Henry](https://www.soyhenry.com/), donde me especializo en Front End.
 
-## Experiencia Profesional
-
-### Preventista en Pepsico / Distribuidora Ronaldo
-Esta experiencia en ventas ha sido invaluable, ya que me permitió consolidar habilidades de comunicación efectiva, orientación al cliente y capacidad para trabajar en equipo. Además, esto me permite abordar proyectos de manera integral, comprendiendo tanto las necesidades del usuario como los objetivos del negocio.
-
 ## Habilidades en Desarrollo Web
 
 - **Front End:** HTML5, CSS3, JavaScript, React, Next.js, Styled Components, Tailwind CSS
