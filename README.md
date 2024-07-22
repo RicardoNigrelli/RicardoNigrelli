@@ -19,8 +19,36 @@ Me motiva colaborar con equipos diversos y contribuir al éxito de proyectos des
 Junto a 6 compañeros más, fuimos seleccionados para participar en un proyecto en formato de pasantía y cierre de curso cumpliendo solicitudes del cliente y por parte de Henry a lo largo de 4 semanas de proceso.
 
 El proyecto contó con las siguientes tecnologías:
-Front End: Next.js, React, @mercadopago/sdk-react, @react-google-maps/api, Formik, TailwindCSS, Axios, React Toastify, Socket.io, Date-fns, XLSX, dotenv y Jsbarcode.
-Backend: NestJS, TypeORM, PostgreSQL, Passport, JWT, Passport-google-oauth20, Nodemailer, Socket.io, Cloudinary, MercadoPago, Bcrypt, Class-validator y Class-transformer, Handlebars, 
+
+Frontend:
+Next.js: Un framework de React que permite renderizado del lado del servidor y generación de sitios estáticos.
+React: Una biblioteca para la construcción de interfaces de usuario.
+@mercadopago/sdk-react: SDK de MercadoPago para la integración de pagos.
+@react-google-maps/api: Biblioteca para la integración de Google Maps en aplicaciones React.
+Formik: Biblioteca para la gestión de formularios en React.
+TailwindCSS: Un framework CSS para el diseño rápido y adaptable.
+Axios: Una biblioteca para realizar solicitudes HTTP.
+React Toastify: Biblioteca para mostrar notificaciones.
+Socket.io-client: Biblioteca para la comunicación en tiempo real entre el cliente y el servidor.
+Date-fns: Biblioteca para el manejo y manipulación de fechas en JavaScript.
+XLSX: Biblioteca para la manipulación de archivos Excel.
+dotenv: Biblioteca para gestionar variables de entorno.
+Jsbarcode: Biblioteca para la generación de códigos de barra.
+
+Backend:
+NestJS: Un framework progresivo de Node.js para construir aplicaciones del lado del servidor eficientes, confiables y escalables.
+TypeORM: Un ORM para TypeScript y JavaScript (ES7, ES6, ES5) basado en Data Mapper, Unit of Work y patrones de identidad.
+PostgreSQL: Un sistema de gestión de bases de datos relacional y orientado a objetos.
+Passport: Middleware de autenticación para Node.js.
+JWT (JSON Web Tokens): Biblioteca para la generación y validación de tokens JWT.
+Passport-google-oauth20: Biblioteca para la autenticación de usuarios mediante OAuth de Google.
+Nodemailer: Biblioteca para el envío de correos electrónicos.
+Socket.io: Biblioteca para la comunicación en tiempo real entre el cliente y el servidor.
+Cloudinary: Servicio de gestión de imágenes y videos en la nube.
+MercadoPago: SDK de MercadoPago para la integración de pagos.
+Bcrypt: Biblioteca para el cifrado de contraseñas.
+Class-validator y Class-transformer: Bibliotecas para la validación y transformación de clases en TypeScript.
+Handlebars: Motor de plantillas para generar correos electrónicos HTML.
 
 Mi rol, junto al equipo, fue desarrollar en el área de Front End las siguientes funcionalidades:
 
