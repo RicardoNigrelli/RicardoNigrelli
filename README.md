@@ -36,6 +36,7 @@ El administrador puede crear ferias del tipo que desee y agregar categorías a g
 Adjunto links disponibles para mayor información:
 
 Página Web: https://elplacfrontend-deploy.vercel.app/
+
 Video Presentación: https://www.youtube.com/watch?v=6M7p-3dCETA&ab_channel=ProyectoELPLAC/
 
 ---
