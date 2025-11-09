@@ -21,6 +21,10 @@ Currently working at **Lisicki Litvin & Asociados**, collaborating on end-to-end
 
 ## 🚀 Proyectos Destacados | Featured Projects
 
+> **📌 Nota:** Los proyectos listados a continuación fueron desarrollados de forma **personal, ad honorem** con el objetivo de desarrollo personal, formación, experiencia práctica y construcción de portafolio.  
+> **Note:** The projects listed below were developed **personally, pro bono** for personal development, learning, practical experience and portfolio building.
+
+
 ### 1. **Falsa Boda** · Event Landing + Pre-registration System
 - **🔗 Live:** [falsaboda.urbanbuenosaires.org](https://falsaboda.urbanbuenosaires.org/)
 - **Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL Neon · Resend
