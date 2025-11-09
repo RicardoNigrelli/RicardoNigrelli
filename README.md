@@ -19,54 +19,6 @@ Currently working at **Lisicki Litvin & Asociados**, collaborating on end-to-end
 
 ---
 
-## 🚀 Proyectos Destacados | Featured Projects
-
-> **📌 Nota:** Los proyectos listados a continuación fueron desarrollados de forma **personal, ad honorem** con el objetivo de desarrollo personal, formación, experiencia práctica y construcción de portafolio.  
-> **Note:** The projects listed below were developed **personally, pro bono** for personal development, learning, practical experience and portfolio building.
-
-
-### 1. **Falsa Boda** · Event Landing + Pre-registration System
-- **🔗 Live:** [falsaboda.urbanbuenosaires.org](https://falsaboda.urbanbuenosaires.org/)
-- **Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL Neon · Resend
-- **📊 Metrics:** <2s load time · 99.9% uptime · Mobile responsive · 100% email delivery
-
-**Descripción / Description:**  
-Plataforma full stack para promoción e inscripción automática de evento experiencial Urban BA. Landing optimizada, formulario validado, confirmación por email automática, admin panel y analytics.
-
----
-
-### 2. **Safe Dating Platform** · UX Research & Product Design
-- **📊 Case Study:** [Google Slides Presentation](https://docs.google.com/presentation/d/1por20vgzmDIxu-0HylNDiSlD3v0UgIRO/edit)
-- **Stack:** Figma · UX Research · Benchmarking · Design Thinking · User Interviews
-- **📊 Validation:** 92% user confirmation · Competitive analysis (Tinder/Bumble/Badoo) · Prototype validated
-
-**Descripción / Description:**  
-Investigación UX profunda: rediseño de categoría apps de citas con foco en seguridad, autenticidad y encuentros presenciales reales. Incluye análisis competitivo, user research, wireframes, UI design y prototipo interactivo.
-
----
-
-### 3. **RefriViedma** · B2B Ecommerce Platform
-- **🔗 Live:** [refriviedma.com.ar](https://refriviedma.com.ar/)
-- **Stack:** Next.js · Node.js · MySQL · Tailwind CSS · WhatsApp API · Email
-- **📊 Metrics:** 50+ products · WhatsApp integration · Admin panel · 99.5% uptime
-
-**Descripción / Description:**  
-Plataforma ecommerce B2B completa para distribuidor de repuestos de refrigeración. Catálogo filtrable, carrito, checkout, integración WhatsApp para consultas, panel admin, flujo de órdenes automatizado.
-
----
-
-### 4. **ELPLAC Platform** · Henry Projects Final (Team)
-- **🌐 Frontend:** [elplacfrontend-deploy.vercel.app](https://elplacfrontend-deploy.vercel.app/)
-- **📹 Video:** [YouTube Presentation](https://www.youtube.com/watch?v=m5Fa3KSSaPo)
-- **Stack:** Next.js · React · NestJS · TypeORM · PostgreSQL · Socket.io · Mercado Pago
-
-**Team:** 7 developers (4 weeks intensive)  
-**My Role:** Frontend Developer
-
-**Descripción / Description:**  
-Plataforma de ferias virtuales y presenciales (Buyers, Sellers, Admins). Sistema de turnos, carga de productos con SKU, etiquetado automático, gestión de categorías, pagos integrados (Mercado Pago), comunicación real-time.
-
----
 
 ## 💻 Tech Stack | Habilidades Técnicas
 
@@ -122,6 +74,55 @@ Plataforma de ferias virtuales y presenciales (Buyers, Sellers, Admins). Sistema
 **PepsiCo & Distribuidora Ronaldo** | 2018 - 2024
 - B2B sales, client relationships, stakeholder management
 - **Transferable Skills:** User-centric thinking, business perspective, communication
+
+---
+
+## 🚀 Proyectos Destacados | Featured Projects
+
+> **📌 Nota:** Los proyectos listados a continuación fueron desarrollados de forma **personal, ad honorem** con el objetivo de desarrollo personal, formación, experiencia práctica y construcción de portafolio.  
+> **Note:** The projects listed below were developed **personally, pro bono** for personal development, learning, practical experience and portfolio building.
+
+
+### 1. **Falsa Boda** · Event Landing + Pre-registration System
+- **🔗 Live:** [falsaboda.urbanbuenosaires.org](https://falsaboda.urbanbuenosaires.org/)
+- **Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL Neon · Resend
+- **📊 Metrics:** <2s load time · 99.9% uptime · Mobile responsive · 100% email delivery
+
+**Descripción / Description:**  
+Plataforma full stack para promoción e inscripción automática de evento experiencial Urban BA. Landing optimizada, formulario validado, confirmación por email automática, admin panel y analytics.
+
+---
+
+### 2. **Safe Dating Platform** · UX Research & Product Design
+- **📊 Case Study:** [Google Slides Presentation](https://docs.google.com/presentation/d/1por20vgzmDIxu-0HylNDiSlD3v0UgIRO/edit)
+- **Stack:** Figma · UX Research · Benchmarking · Design Thinking · User Interviews
+- **📊 Validation:** 92% user confirmation · Competitive analysis (Tinder/Bumble/Badoo) · Prototype validated
+
+**Descripción / Description:**  
+Investigación UX profunda: rediseño de categoría apps de citas con foco en seguridad, autenticidad y encuentros presenciales reales. Incluye análisis competitivo, user research, wireframes, UI design y prototipo interactivo.
+
+---
+
+### 3. **RefriViedma** · B2B Ecommerce Platform
+- **🔗 Live:** [refriviedma.com.ar](https://refriviedma.com.ar/)
+- **Stack:** Next.js · Node.js · MySQL · Tailwind CSS · WhatsApp API · Email
+- **📊 Metrics:** 50+ products · WhatsApp integration · Admin panel · 99.5% uptime
+
+**Descripción / Description:**  
+Plataforma ecommerce B2B completa para distribuidor de repuestos de refrigeración. Catálogo filtrable, carrito, checkout, integración WhatsApp para consultas, panel admin, flujo de órdenes automatizado.
+
+---
+
+### 4. **ELPLAC Platform** · Henry Projects Final (Team)
+- **🌐 Frontend:** [elplacfrontend-deploy.vercel.app](https://elplacfrontend-deploy.vercel.app/)
+- **📹 Video:** [YouTube Presentation](https://www.youtube.com/watch?v=m5Fa3KSSaPo)
+- **Stack:** Next.js · React · NestJS · TypeORM · PostgreSQL · Socket.io · Mercado Pago
+
+**Team:** 7 developers (4 weeks intensive)  
+**My Role:** Frontend Developer
+
+**Descripción / Description:**  
+Plataforma de ferias virtuales y presenciales (Buyers, Sellers, Admins). Sistema de turnos, carga de productos con SKU, etiquetado automático, gestión de categorías, pagos integrados (Mercado Pago), comunicación real-time.
 
 ---
 
