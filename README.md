@@ -100,7 +100,7 @@ Plataforma de ferias virtuales y presenciales con perfiles de comprador, vendedo
 ## 💼 Experiencia | Experience
 
 ### Desarrollador Web — Lisicki Litvin & Asociados
-**Sep 2025 - Presente**
+**Sep 2024 - Presente**
 - Desarrollo full stack en PHP/Laravel y JavaScript/Node.js sobre una base de código existente
 - APIs REST e integración de sistemas
 - Diseño UX/UI en Figma para proyectos web
