@@ -1,5 +1,7 @@
 # 👋 Ricardo Nigrelli · Full Stack Developer & UX/UI Designer
 
+🌐 **[ricardonigrelli.is-a.dev](https://ricardonigrelli.is-a.dev)** · [LinkedIn](https://linkedin.com/in/ricardonigrelli)
+
 ## 👤 Sobre mí | About Me
 
 Desarrollador full stack con dos años de experiencia sobre software en producción, y diseñador UX/UI con formación específica y sistemas de diseño propios. Trabajo a diario con **Next.js, React y TypeScript** del lado del cliente y con **PHP y Laravel** del lado del servidor, integrando APIs y lógica de negocio sobre una base de código existente.
@@ -49,7 +51,16 @@ Un panel de operador controla letras, placas y multimedia, y las pantallas conec
 
 ---
 
-### 2. Facturación electrónica ARCA/AFIP · Backend
+### 2. Urban Songbook · Cancionero para equipos de música
+- **Stack:** Next.js · TypeScript · Drizzle ORM · PostgreSQL (Neon) · Web Push · Zod
+
+Canciones con acordes, transposición de tonalidad y capo personal; setlists con convocatoria y confirmación de asistencia; atril para el músico con acceso autenticado o por enlace público; y permisos diferenciados por rol entre líder, editor y miembro. Documento y ejecuto una ronda de QA de extremo a extremo por cada versión, cubriendo cada flujo con los tres roles.
+
+**En uso por un equipo de cinco personas.** La instancia pública es la productiva, con datos de personas reales, así que **la demo está pendiente**; puedo mostrarla en vivo en una llamada. | *The public instance is the production one, with real people's data, so **a demo is pending**; I can walk through it live on a call.*
+
+---
+
+### 3. Facturación electrónica ARCA/AFIP · Backend
 - **Stack:** NestJS · TypeScript · TypeORM · BullMQ + Redis · PostgreSQL · Swagger
 
 API de facturación electrónica que emite comprobantes fiscales a partir de operaciones de un sistema transaccional. Emisión asincrónica con colas y reintentos, idempotencia en dos niveles (constraint único en base y verificación previa contra el organismo) y persistencia completa de cada request y response para auditoría.
@@ -58,7 +69,7 @@ API de facturación electrónica que emite comprobantes fiscales a partir de ope
 
 ---
 
-### 3. Falsa Boda · Landing de evento con preinscripción
+### 4. Falsa Boda · Landing de evento con preinscripción
 - **En línea | Live:** [falsaboda.urbanbuenosaires.org](https://falsaboda.urbanbuenosaires.org/)
 - **Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL (Neon) · Resend
 
@@ -66,7 +77,7 @@ Landing e inscripción automática para un evento experiencial: formulario valid
 
 ---
 
-### 4. Citas Seguras · Investigación UX y diseño de producto
+### 5. Citas Seguras · Investigación UX y diseño de producto
 - **Caso | Case study:** [presentación](https://docs.google.com/presentation/d/1por20vgzmDIxu-0HylNDiSlD3v0UgIRO/edit)
 - **Herramientas | Tools:** Figma · UX research · Benchmarking · Entrevistas · Prototipado
 
@@ -74,7 +85,7 @@ Investigación UX sobre la categoría de apps de citas, con foco en seguridad, a
 
 ---
 
-### 5. ELPLAC · Proyecto final de bootcamp (equipo)
+### 6. ELPLAC · Proyecto final de bootcamp (equipo)
 - **Frontend:** [elplacfrontend-deploy.vercel.app](https://elplacfrontend-deploy.vercel.app/)
 - **Video:** [presentación en YouTube](https://www.youtube.com/watch?v=m5Fa3KSSaPo)
 - **Stack:** Next.js · React · NestJS · TypeORM · PostgreSQL · Socket.IO · Mercado Pago
@@ -87,7 +98,7 @@ Plataforma de ferias virtuales y presenciales con perfiles de comprador, vendedo
 
 | Programa | Institución | Duración | Estado |
 |---|---|---|---|
-| **Google Cloud Computing Foundations** | Google Skills / Talento Tech | Desde Sep 2025 | ▶️ En curso |
+| **Google Cloud Computing Foundations** | Google Skills / Talento Tech | Desde Sep 2026 | ▶️ En curso |
 | **Licenciatura en Psicología** | Universidad Abierta Interamericana | 2021 - 2027 | ▶️ En curso |
 | **IBM SkillsBuild: Fundamentos de IA** | IBM | Sep - Dic 2025 | ✅ Completado |
 | **UI Design Avanzado** | Talento Tech | Mar - Jul 2025 | ✅ Completado |
@@ -99,11 +110,16 @@ Plataforma de ferias virtuales y presenciales con perfiles de comprador, vendedo
 
 ## 💼 Experiencia | Experience
 
-### Desarrollador Web — Lisicki Litvin & Asociados
-**Sep 2024 - Presente**
-- Desarrollo full stack en PHP/Laravel y JavaScript/Node.js sobre una base de código existente
-- APIs REST e integración de sistemas
-- Diseño UX/UI en Figma para proyectos web
+### Desarrollador Web Semi Senior — Lisicki Litvin & Asociados
+**Sep 2025 - Presente**
+- Módulos y aplicaciones web para los equipos internos de una organización de ~600 personas, integrados con los servicios, APIs y lógica de negocio existentes
+- Proyectos de automatización e infraestructura para los clientes del estudio
+- Ciclo completo de cada módulo, del diseño de la interfaz a su implementación
+
+### Desarrollador Web Junior — Lisicki Litvin & Asociados
+**Sep 2024 - Ago 2025**
+- Resolución de incidencias sobre una base de código en producción en PHP/Laravel y JavaScript
+- Trabajo sobre funcionalidades ya en uso, dentro de un equipo de cinco desarrolladores
 
 ### Desarrollos propios y voluntariado
 **Jun 2024 - Presente**
