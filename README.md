@@ -31,6 +31,9 @@ Currently at **Lisicki Litvin & Asociados** as a Web Developer.
 ### Bases de datos | Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
+### Cloud y datos | Cloud & Data
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ### Diseño y herramientas | Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
@@ -113,8 +116,9 @@ Plataforma de ferias virtuales y presenciales con perfiles de comprador, vendedo
 ### Desarrollador Web Semi Senior — Lisicki Litvin & Asociados
 **Sep 2025 - Presente**
 - Módulos y aplicaciones web para los equipos internos de una organización de ~600 personas, integrados con los servicios, APIs y lógica de negocio existentes
-- Proyectos de automatización e infraestructura para los clientes del estudio
 - Ciclo completo de cada módulo, del diseño de la interfaz a su implementación
+- **Azure:** capa de integración para un cliente que pasó de intercambiar archivos por FTP a exponer una API. Data Factory converge las llamadas contra una Function App, sin paso por Blob Storage, con pipelines por dominio de datos; en la Function App queda el control de cada etapa del ETL, los stored procedures y las tablas de cada nivel
+- **Google Cloud:** diseñé y construí la automatización de un proceso que un cliente resolvía a mano en Excel y PowerPoint — integración con IBM Planning Analytics, ETL sobre BigQuery, cálculos en un servicio en Cloud Run y agendamiento con un DAG en Cloud Composer. Separé las etapas para escalar: el resultado queda en una tabla que hoy consume Power BI y que puede consumir cualquier aplicación
 
 ### Desarrollador Web Junior — Lisicki Litvin & Asociados
 **Sep 2024 - Ago 2025**
