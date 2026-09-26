@@ -63,7 +63,18 @@ Canciones con acordes, transposición de tonalidad y capo personal; setlists con
 
 ---
 
-### 3. Facturación electrónica ARCA/AFIP · Backend
+### 3. Subtítulos en vivo · Nerdearla Vibeathon 2026
+- **Código | Code:** [subtitulos-en-vivo](https://github.com/RicardoNigrelli/subtitulos-en-vivo)
+- **Video:** [demo en YouTube](https://youtu.be/cxSG4hmvxfQ)
+- **Stack:** Python · asyncio · websockets · aiohttp · Gemini Live API · Flash-Lite · JavaScript · Docker Compose · pytest
+
+Transcripción y traducción en vivo para conferencias, con varias sesiones en paralelo y una vista web donde cada asistente elige sesión e idioma. Lo construí en 24 horas, sin equipo y con agentes de IA. Cada número del README tiene el comando que lo reproduce: dos sesiones simultáneas de unos 11 minutos, sin huecos en la transcripción.
+
+**Hackathon de 24 horas, código abierto (Apache 2.0).**
+
+---
+
+### 4. Facturación electrónica ARCA/AFIP · Backend
 - **Stack:** NestJS · TypeScript · TypeORM · BullMQ + Redis · PostgreSQL · Swagger
 
 API de facturación electrónica que emite comprobantes fiscales a partir de operaciones de un sistema transaccional. Emisión asincrónica con colas y reintentos, idempotencia en dos niveles (constraint único en base y verificación previa contra el organismo) y persistencia completa de cada request y response para auditoría.
@@ -72,7 +83,7 @@ API de facturación electrónica que emite comprobantes fiscales a partir de ope
 
 ---
 
-### 4. Falsa Boda · Landing de evento con preinscripción
+### 5. Falsa Boda · Landing de evento con preinscripción
 - **En línea | Live:** [falsaboda.urbanbuenosaires.org](https://falsaboda.urbanbuenosaires.org/)
 - **Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL (Neon) · Resend
 
@@ -80,7 +91,7 @@ Landing e inscripción automática para un evento experiencial: formulario valid
 
 ---
 
-### 5. Citas Seguras · Investigación UX y diseño de producto
+### 6. Citas Seguras · Investigación UX y diseño de producto
 - **Caso | Case study:** [presentación](https://docs.google.com/presentation/d/1por20vgzmDIxu-0HylNDiSlD3v0UgIRO/edit)
 - **Herramientas | Tools:** Figma · UX research · Benchmarking · Entrevistas · Prototipado
 
@@ -88,7 +99,7 @@ Investigación UX sobre la categoría de apps de citas, con foco en seguridad, a
 
 ---
 
-### 6. ELPLAC · Proyecto final de bootcamp (equipo)
+### 7. ELPLAC · Proyecto final de bootcamp (equipo)
 - **Frontend:** [elplacfrontend-deploy.vercel.app](https://elplacfrontend-deploy.vercel.app/)
 - **Video:** [presentación en YouTube](https://www.youtube.com/watch?v=m5Fa3KSSaPo)
 - **Stack:** Next.js · React · NestJS · TypeORM · PostgreSQL · Socket.IO · Mercado Pago
@@ -153,5 +164,5 @@ Plataforma de ferias virtuales y presenciales con perfiles de comprador, vendedo
 
 ## 📬 Contacto | Get in Touch
 
-| [LinkedIn](https://linkedin.com/in/ricardonigrelli) | [Portafolio](https://portafolio-rn-beta.vercel.app) | [Email](mailto:ricanigrelli996@gmail.com) |
+| [LinkedIn](https://linkedin.com/in/ricardonigrelli) | [Portafolio](https://ricardonigrelli.is-a.dev) | [Email](mailto:ricanigrelli996@gmail.com) |
 |:---:|:---:|:---:|
